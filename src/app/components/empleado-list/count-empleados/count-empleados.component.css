@@ -1,0 +1,8 @@
+input[tyoe=radio]{
+  width: 25px;
+  height: 25px;
+}
+label{
+  font-size: 1.2rem;
+  font-weight: 600;
+}
